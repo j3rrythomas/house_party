@@ -52,7 +52,7 @@ npm run dev
 ```
 
 
-###Spotify API
+### Spotify API
 
 Go to [Spotify Developer](https://developer.spotify.com/) and create/login into your account.Create a <b>house party</b> application.
 
